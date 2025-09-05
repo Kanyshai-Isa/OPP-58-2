@@ -5,4 +5,5 @@ class Hero:
         self.lvl = lvl
         self.hp = hp
 
-    def action(self,):
+    def action(self):
+        pass
