@@ -1,6 +1,6 @@
 ++++++++++ Команды на один раз для устройства ++++++++++
-git config -- global.user.name "Kanyshai-Isa"
-git config -- global.email "kanyshaiisaevak@gmail.com"
+git config --global.user.name "Kanyshai-Isa"
+git config --global.email "kanyshaiisaevak@gmail.com"
 
 ++++++++++ Команды на один раз для проекта ++++++++++
 git init         | инициализация репозитория
@@ -12,4 +12,4 @@ git remote add origin https://github.com/Kanyshai-Isa/OPP-58-2.git
 git status       | статус проекта
 git add .         | добавить все изменения в буфер обмена
 git commit -m "message"    | сохранить изменения, которые в буфере обмена
-git push origin master|main      |отправить изменения в репозитории
+git push origin master    |отправить изменения в репозитории
