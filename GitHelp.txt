@@ -1,6 +1,6 @@
 ++++++++++ Команды на один раз для устройства ++++++++++
-git config --global.user.name "Kanyshai-Isa"
-git config --global.email "kanyshaiisaevak@gmail.com"
+git config --global user.name "Kanyshai-Isa"
+git config --global email "kanyshaiisaevak@gmail.com"
 
 ++++++++++ Команды на один раз для проекта ++++++++++
 git init         | инициализация репозитория
