@@ -7,3 +7,4 @@ class Hero:
 
     def action(self):
         pass
+
